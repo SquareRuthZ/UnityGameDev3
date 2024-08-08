@@ -1,0 +1,10 @@
+{
+    "name": "com.gamedev3.library",
+    "displayName": "CAMT Game Development 3 Library",
+    "description": "CAMT Game Development 3 Library developed by Dr.Keattikorn Samarnggoon (Ph.D.)",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "dependencies": {
+
+    }
+}

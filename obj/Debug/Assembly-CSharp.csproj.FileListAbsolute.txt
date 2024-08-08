@@ -1,0 +1,2 @@
+C:\Users\Supawich\Unit3CollisionDetection\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Supawich\Unit3CollisionDetection\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
